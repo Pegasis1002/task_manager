@@ -1,3 +1,5 @@
+// src\main.rs
+
 use std::io;
 use tui::{
     backend::CrosstermBackend,
